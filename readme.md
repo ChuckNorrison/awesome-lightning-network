@@ -108,7 +108,7 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 
 - [ilp-lightning-demo](https://github.com/interledgerjs/ilp-lightning-demo) - Demo sending payments between Bitcoin and Litecoin Lightning Networks using Interledger
 - [lightning-coindesk](https://github.com/lightninglabs/lightning-coindesk) - An example news app exemplifying Lightning Network micropayments integration
-
+- [Setup a Lightning Node on Raspberry Pi4 with common toolsets](https://github.com/rootzoll/raspiblitz)
 
 ## Learning Resources 
 
@@ -134,7 +134,6 @@ Channel Networks](https://www.tik.ee.ethz.ch/file/a20a865ce40d40c8f942cf206a7cba
 - [Lightning Network Community Blog](http://lightning.community/)
 - [Lightning Network Twitter Feed](https://twitter.com/lightning)
 - [Lightning Network Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
-- [LND Community Slack](https://join.slack.com/t/lightningcommunity/shared_invite/MjI4OTg3MzQ4MjI2LTE1MDMxNzM1NTMtNjlmOGYzOTI1Ng)
 - [Lightning Labs Blog](https://blog.lightning.engineering/)
 
 ### IRC
